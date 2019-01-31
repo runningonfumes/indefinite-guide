@@ -1,6 +1,6 @@
 # The indefinite guide to programming
 
-## About this --book-- repository
+## About this repository
 
 This repository is the result of years of frustration as a self-taught 
 programmer. I could have a lengthy introduction about my struggles to 
@@ -10,7 +10,7 @@ the mistakes I see repeated over and over again.
 But as you probably would skip that stuff anyway, lets get right into it.
 
 `
-TL;DR more reference than you would ever care to have
+TL;DR more references than you would ever care to have
 `
 
 ### Table of content
@@ -20,15 +20,18 @@ TL;DR more reference than you would ever care to have
     * Some history
     * Lamda Calculus
     * Big O
-    * Lamda Calculus
 * More fundamentals
-  - programming languages
-    - Object Oriented Programming
-    - Functional programming 
+  * Programming languages
+    * Object Oriented Programming
+    * Functional programming
+* Less fundamental
+  * [Architecture](architecture/architecture.md) 
 * Going to production
-  - Infrastructure
-  - Devops
+  * Infrastructure
+  * Devops
+* The human side
+* [Conferences](conferences/conferences.md)
 * On a lighter note
 
 
-Copyright ©2017 Wim Wintmolders
+Copyright ©2019 Wim Wintmolders
