@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# The indefinite guide to programming
 
-You can use the [editor on GitHub](https://github.com/runningonfumes/indefinite-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About this --book-- repository
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is the result of years of frustration as a self-taught 
+programmer. I could have a lengthy introduction about my struggles to 
+improve myself, about the horrible stuff I saw along the years or about
+the mistakes I see repeated over and over again.
 
-### Markdown
+But as you probably would skip that stuff anyway, lets get right into it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`
+TL;DR more reference than you would ever care to have
+`
 
-```markdown
-Syntax highlighted code block
+### Table of content
 
-# Header 1
-## Header 2
-### Header 3
+* [Introduction](intro.md)
+* Fundamentals
+    * Some history
+    * Lamda Calculus
+    * Big O
+    * Lamda Calculus
+* More fundamentals
+  - programming languages
+    - Object Oriented Programming
+    - Functional programming 
+* Going to production
+  - Infrastructure
+  - Devops
+* On a lighter note
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/runningonfumes/indefinite-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright ©2017 Wim Wintmolders
