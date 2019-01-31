@@ -30,8 +30,10 @@ TL;DR more references than you would ever care to have
   * Infrastructure
   * Devops
 * The human side
-* [Conferences](conferences/conferences.md)
-* On a lighter note
+* Resource galore 
+   * [Conferences](resources/conferences.md)
+   * [Podcasts](resources/podcasts.md)
+* [On a lighter note](fun/fun.md)
 
 
 Copyright ©2019 Wim Wintmolders
